@@ -34,3 +34,7 @@ For Creating a link [google.com](https://www.youtube.com)
 
 Relative Links
 [The path of the file should be mentioned](/README.md)
+
+
+Image
+![This is the image](https://user-images.githubusercontent.com/101277383/177118823-840242c5-c0f3-4a7a-ad55-4497f74216cb.png)
