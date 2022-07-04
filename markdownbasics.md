@@ -33,4 +33,4 @@ git commit
 For Creating a link [google.com](https://www.youtube.com)
 
 Relative Links
-[Contribution guidelines for this project](docs/README.md)
+[The path of the file should be mentioned](/README.md)
